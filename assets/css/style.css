@@ -19,4 +19,21 @@ body {
 
 #head {
     position: relative;
+    padding-left: initial;
+}
+
+/* Portfolio Styling */
+
+.container {
+    background-color:#ccaf84;
+    opacity: 0.9;
+    margin-top: 50px;
+    text-align: center;
+
+    width: fit-content;
+;
+  
+}
+#card {
+    opacity: 1;
 }
