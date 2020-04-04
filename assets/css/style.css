@@ -1,0 +1,22 @@
+body {
+    background: URL("background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    background-color: transparent;
+    overflow: scroll;
+
+}
+
+#details {
+    background-color:#ccaf84;
+    opacity: 0.9;
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    margin-top: 75px;
+    padding-top: inherit;
+  
+  }
+
+#head {
+    position: relative;
+}
